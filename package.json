@@ -1,0 +1,21 @@
+{
+  "name": "binance-bot",
+  "version": "1.0.0",
+  "description": "Binance bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "binance",
+    "bot"
+  ],
+  "author": "Daniel Candia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
